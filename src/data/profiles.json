@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "photo": "https://img.freepik.com/premium-photo/indian-girl-beautiful-shot-night-generative-ai_849906-8308.jpg?w=360",
+    "description": "Software Developer",
+    "age":22,
+    "location": "India "
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "photo": "https://images-ng.pixai.art/images/orig/29f49ef1-6142-4480-8afc-13a3419294e2",
+    "description": "Graphic Designer",
+    "age":22,
+    "location": "maxico"
+  },
+  {
+    "id": 3,
+    "name": "Janvi Singh",
+    "photo": "https://cdn.pixabay.com/photo/2024/03/08/07/01/ai-generated-8620008_640.jpg",
+    "description": "Web Developer",
+    "age":22,
+    "location": "italy"
+  },
+  {
+    "id": 4,
+    "name": "Alice Johnson",
+    "photo": "https://image.tensorartassets.com/cdn-cgi/image/anim=true,plain=false,w=2048,f=jpeg,q=85/posts/images/710514683408294235/10a90387-e19e-4d97-805a-b155c99e952a.jpg",
+    "description": "Data Scientist",
+    "age":22,
+    "location":"Dubai"
+  }
+]
